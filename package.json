@@ -1,0 +1,17 @@
+{
+  "name": "base64-to-image-url",
+  "version": "1.0.0",
+  "description": "A package to conver base64 string to image url",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "Shamim hasnain <hasnainbauet@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ]
+}
